@@ -1,6 +1,6 @@
 # StoreDock
 
-StoreDock is a progressive Dockerfile repository created to store various Docker builds for [Shinigami](https://github.com/shinigamilib/shinigami).
+StoreDock is a progressive Dockerfile repository created to store various Docker builds for [Shinigami](https://github.com/shinigamilib).
 
 The following containers are currently supported:
 
