@@ -1,8 +1,8 @@
-# StoreDock
+# DockDB
 
-StoreDock is a progressive Dockerfile repository created to store various Docker builds for [Shinigami](https://github.com/shinigamilib).
+DockDB is a progressive Dockerfile repository created to store template Docker builds for [Shinigami](https://github.com/AzazelSoftware/shinigami).
 
-The following containers are currently supported:
+The following images are currently supported:
 
 | Language/OS  | Version(s)                  |
 |--------------|-----------------------------|
@@ -11,4 +11,4 @@ The following containers are currently supported:
 | Ubuntu       | 16.04, 18.04, 20.04, 22.04  |
 
 ## Issues
-Don't see your preferred Docker container? Don't worry! I'm doing the best I can to add new containers whenever I can. If you would like to contribute or add more Docker containers, feel free to submit a PR.
+Are we missing a Dockerfile? Feel free to open an issue with a list of Dockerfiles. We are currently working on creating a project board for community-driven Dockerfile additions.
