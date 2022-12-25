@@ -1,5 +1,5 @@
-# File provided by Azazel Software
-# Learn more: https://github.com/AzazelSoftware
+# File provided by Hifumi1337
+# Learn more: https://github.com/shinigamilib
 
 FROM ubuntu:20.04
 
