@@ -1,4 +1,4 @@
-# File provided by Hifumi1337
+# File provided by azazelm3dj3d
 # Learn more: https://github.com/shinigamilib
 
 FROM ubuntu:16.04
