@@ -10,5 +10,6 @@ RUN mkdir /shinigami/project
 
 COPY . /shinigami/project/
 COPY package*.json /shinigami/project/package*.json
+RUN cd project
 
 RUN npm install
