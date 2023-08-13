@@ -1,6 +1,6 @@
 # DockDB
 
-DockDB is a progressive Dockerfile repository created to store template Dockerfiles for [Shinigami](https://github.com/shinigamilib).
+DockDB is a progressive Dockerfile repository created to store template Dockerfiles for [Shinigami](https://github.com/azazelm3dj3d/shinigami).
 
 The following images are currently supported:
 

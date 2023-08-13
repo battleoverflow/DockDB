@@ -1,5 +1,5 @@
 # File provided by azazelm3dj3d
-# Learn more: https://github.com/shinigamilib
+# Learn more: https://github.com/azazelm3dj3d/DockDB
 
 FROM node:14
 
