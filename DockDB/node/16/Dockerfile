@@ -5,9 +5,9 @@ FROM node:16
 
 RUN apt-get update
 
-WORKDIR /shinigami/project
+WORKDIR /app
 
-COPY . /shinigami/project/
-COPY package*.json /shinigami/project/package*.json
+COPY . /app/
+COPY package*.json /app/package*.json
 
 RUN npm install

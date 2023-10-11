@@ -5,10 +5,10 @@ FROM python:3.11-bullseye
 
 RUN apt-get update
 
-WORKDIR /shinigami
-RUN mkdir /shinigami/project
+WORKDIR /app
+RUN mkdir /app
 
-COPY . /shinigami/project/
-COPY requirements.txt /shinigami/project/requirements.txt
+COPY . /app/
+COPY requirements.txt /app/requirements.txt
 
-RUN pip install -r /shinigami/project/requirements.txt
+RUN pip install -r /app/requirements.txt

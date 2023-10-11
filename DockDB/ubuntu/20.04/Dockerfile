@@ -5,7 +5,7 @@ FROM ubuntu:20.04
 
 RUN apt-get update
 
-WORKDIR /shinigami
-RUN mkdir /shinigami/project
+WORKDIR /app
+RUN mkdir /app
 
-COPY . /shinigami/project/
+COPY . /app/
