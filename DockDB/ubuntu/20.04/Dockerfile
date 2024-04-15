@@ -1,5 +1,5 @@
-# File provided by azazelm3dj3d
-# Learn more: https://github.com/azazelm3dj3d/DockDB
+# File provided by battleoverflow
+# Learn more: https://github.com/battleoverflow/DockDB
 
 FROM ubuntu:20.04
 
